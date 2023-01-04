@@ -56,7 +56,7 @@ jobs:
 
        - name: running dragon-linux server
 
-         timeout-minutes: 350
+         
 
          continue-on-error: true
 
